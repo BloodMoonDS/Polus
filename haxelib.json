@@ -1,0 +1,16 @@
+{
+  "name": "Polus", //may change later
+  "url" : "https://github.com/BloodMoonDS/Polus/new/main",
+  "license": "Apache",
+  "tags": ["Video", "Render","3D","mkv","mp4","details"],
+  "description": "This library allows you to render 3D shapes in a actual 2D enviroment (idk how am I going to do so cuz ima dumb) and import Videos in most used formats (MP4 , MKV, WEBM , AVI, FLV , WMV , MOV, 3GP) ",
+  "version": "0.0.1",
+  "classPath": "scripts/",
+  "releasenote": "just an test release",
+  "contributors": ["BloodmoonDS"],
+  "dependencies": {
+    "tink_macro": "",
+    "nme": "3.5.5"
+  },
+  "main": "tools.Main"
+}
